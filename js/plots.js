@@ -349,7 +349,7 @@ var outlinksvg = null
 
 
 // Static URL links
-const comptoxURL = "https://comptox.epa.gov/dashboard/dsstoxdb/results?search="
+const comptoxURL = "https://comptox.epa.gov/dashboard/msready-mixture?dtxcid="
 const structureImageURL = "https://comptox.epa.gov/dashboard-api/ccdapp1/chemical-files/image/by-dtxcid/"
 
 addHazardLegend()
